@@ -65,3 +65,28 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+.nav-bar {
+	text-align: center;
+}
+
+.logo {
+	float: right;
+	padding-right: 500px;
+}
+
+.left-p {
+	float: left;
+	padding-left: 500px;
+}
+
+.right-p{
+	float: right;
+	padding-right: 500px;
+}
+
+.right-middle {
+	margin: 0px;
+	border: 0px;
+	padding-right: 30px;
+}
+
